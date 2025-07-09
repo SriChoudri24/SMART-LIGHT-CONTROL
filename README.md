@@ -34,3 +34,6 @@ This simulates how a mobile app can control devices in a smart home environment.
 ## 🔗 Simulation Link
 
 [Click here to open in Wokwi](#) (https://wokwi.com/projects/436001865936590849)
+
+#OUTPUT 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1c66af59-87e5-4164-a068-645a9d28ef50" />
